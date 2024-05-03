@@ -1,9 +1,5 @@
 console.log("Hello world");
 
-console.log("Nguoc thoi gian ve qua khu");
+console.log("Hello main 3");
 
-console.log("Thay doi main1 lan 2");
-
-console.log("Thay doi main1 lan 3");
-
-console.log("Thay doi main1 lan 4");
+console.log("Hello world 3 commit 2");
